@@ -43,11 +43,11 @@ Add these settings to your `settings.json` for better experience:
 
 | Color              | Main Use            | Hexadecimal |
 |--------------------|---------------------|-------------|
-| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/background.png" width="16" height="16"></div>  | Main Background     | `#20283A`   |
-| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/function.png" width="16" height="16"></div> | Functions/Keywords  | `#758DC4`   |
-| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/class.png" width="16" height="16"></div>  | Classes/Types       | `#975A92`   |
-| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/variable.png" width="16" height="16"></div>  | Strings/Variables            | `#7C9782`   |
-| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/ponctuation.png" width="16" height="16"></div>  | Constants/Punctuation           | `#C0BDB0`   |
+| <div align="center"><img src="https://github.com/GabrielMMC/astigmatism-theme/blob/main/png-colors/background.png?raw=true" width="16" height="16"></div>  | Main Background     | `#20283A`   |
+| <div align="center"><img src="https://github.com/GabrielMMC/astigmatism-theme/blob/main/png-colors/function.png?raw=true" width="16" height="16"></div> | Functions/Keywords  | `#758DC4`   |
+| <div align="center"><img src="https://github.com/GabrielMMC/astigmatism-theme/blob/main/png-colors/class.png?raw=true" width="16" height="16"></div>  | Classes/Types       | `#975A92`   |
+| <div align="center"><img src="https://github.com/GabrielMMC/astigmatism-theme/blob/main/png-colors/variable.png?raw=true" width="16" height="16"></div>  | Strings/Variables            | `#7C9782`   |
+| <div align="center"><img src="https://github.com/GabrielMMC/astigmatism-theme/blob/main/png-colors/ponctuation.png?raw=true" width="16" height="16"></div>  | Constants/Punctuation           | `#C0BDB0`   |
 
 ## 🤝 Contribution
 Contributions are welcome! Follow these steps:
