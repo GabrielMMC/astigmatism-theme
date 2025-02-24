@@ -11,11 +11,11 @@
 
 ### Examples
 
-![Laravel/PHP Example](screenshots/php.png)
+![Laravel/PHP Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/php.png)
 
-![TSX/React Example](screenshots/tsx.png)
+![TSX/React Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/tsx.png)
 
-![HTML Example](screenshots/html.png)
+![HTML Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/html.png)
 
 ## 🎨 Personalization
 
