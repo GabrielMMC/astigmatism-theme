@@ -1,21 +1,26 @@
 # 🎨 Astigmatism Theme
 
 **An elegant and productive color palette for VS Code**  
-*Developed especially for PHP and Laravel with a focus on better visualization for those with astigmatism*
+Developed especially for PHP and Laravel with a focus on better visualization for those with astigmatism
 
-![Badges](https://img.shields.io/visual-studio-marketplace/v/seu-user.nome-do-tema?color=758DC4&label=VS%20Code%20Marketplace&style=flat-square)
-![Downloads](https://img.shields.io/visual-studio-marketplace/d/seu-user.nome-do-tema?color=758DC4&style=flat-square)
-![Rating](https://img.shields.io/visual-studio-marketplace/r/seu-user.nome-do-tema?color=758DC4&style=flat-square)
+*Also supports html, css and tsx/jsx*
+
+![Badges](https://img.shields.io/visual-studio-marketplace/v/gabrielfacioni.astigmatism-theme?color=)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/gabrielfacioni.astigmatism-theme?color)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/gabrielfacioni.astigmatism-theme?color)
 
 ## ✨ Features
 
 ### Examples
 
-![Laravel/PHP Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/php.png)
+#### 🐘 Laravel/PHP
+![Laravel/PHP Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/php.png?raw=true)
 
-![TSX/React Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/tsx.png)
+#### 🟦 TSX/JSX
+![TSX/React Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/tsx.png?raw=true)
 
-![HTML Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/html.png)
+#### 🖋️HTML/CSS
+![HTML Example](https://github.com/GabrielMMC/astigmatism-theme/blob/main/screenshots/html.png?raw=true)
 
 ## 🎨 Personalization
 
@@ -34,15 +39,15 @@ Add these settings to your `settings.json` for better experience:
 }
 ```
 
-## 🌈 Complete Palette
+## 🌈 Palette
 
-| Color | Main Use | Hexadecimal |
-|-------------------|---------------------|-------------|
-| ![#1A202E](https://via.placeholder.com/15/1A202E/000000?text=+) `#1A202E` | Main Fund | `#1A202E` |
-| ![#758DC4](https://via.placeholder.com/15/758DC4/000000?text=+) `#758DC4` | Functions/Keywords | `#758DC4` |
-| ![#975A92](https://via.placeholder.com/15/975A92/000000?text=+) `#975A92` | Classes/Types | `#975A92` |
-| ![#7C9782](https://via.placeholder.com/15/7C9782/000000?text=+) `#7C9782` | Strings | `#7C9782` |
-| ![#AC6F3A](https://via.placeholder.com/15/AC6F3A/000000?text=+) `#AC6F3A` | Variables | `#AC6F3A` |
+| Color              | Main Use            | Hexadecimal |
+|--------------------|---------------------|-------------|
+| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNic+PHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzIwMjgzYScvPjwvc3ZnPg==" width="16" height="16"></div> | Main Background     | `#20283A`   |
+| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNic+PHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzc1OERDNCcvPjwvc3ZnPg==" width="16" height="16"></div> | Functions/Keywords  | `#758DC4`   |
+| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNic+PHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzk3NUE5MicvPjwvc3ZnPg==" width="16" height="16"></div> | Classes/Types       | `#975A92`   |
+| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNic+PHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzdDOTc4MicvPjwvc3ZnPg==" width="16" height="16"></div> | Strings/Variables            | `#7C9782`   |
+| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI0MwQkRCMCIvPjwvc3ZnPg==" width="16" height="16"></div> | Constants/Punctuation           | `#C0BDB0`   |
 
 ## 🤝 Contribution
 Contributions are welcome! Follow these steps:
