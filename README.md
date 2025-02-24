@@ -46,7 +46,7 @@ Add these settings to your `settings.json` for better experience:
 
 ## 🤝 Contribution
 Contributions are welcome! Follow these steps:
-1. Fork the repository
+1. Fork the repository https://github.com/GabrielMMC/astigmatism-theme
 2. Create a branch: `git checkout -b feat/new-feature`
 3. Commit your changes: `git commit -m 'Add something'`
 4. Push: `git push origin feat/new-feature`

@@ -1,10 +1,16 @@
 {
   "name": "astigmatism-theme",
+  "publisher": "gabrielfacioni",
+  "icon": "icon.png",
   "displayName": "Astigmatism Theme",
   "description": "A personalized theme for people with astigmatism.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GabrielMMC/astigmatism-theme"
   },
   "categories": [
     "Themes"
@@ -17,5 +23,8 @@
         "path": "./themes/astigmatism-theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
