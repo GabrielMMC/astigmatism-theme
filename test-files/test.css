@@ -1,0 +1,50 @@
+/* test-theme.css */
+:root {
+    --primary-color: #758DC4;
+    --spacing-unit: 1rem;
+  }
+  
+  .container {
+    padding: calc(var(--spacing-unit) * 2);
+    background: rgba(255, 255, 255, 0.9);
+    transform: rotate(5deg) scale(1.1);
+  }
+  
+  #main-content {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto !important;
+  }
+  
+  .button {
+    color: var(--primary-color);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .button:hover::after {
+    content: "→";
+    display: inline-block;
+    margin-left: 0.5em;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      padding: var(--spacing-unit);
+    }
+    
+    @supports (display: grid) {
+      .grid-system {
+        display: grid;
+        gap: 1rem;
+      }
+    }
+  }
+  
+  @keyframes slide-in {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta tags -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title data-testid="page-title">Theme Test</title>
+  
+  <style>
+    .container { padding: 20px; }
+  </style>
+</head>
+<body>
+  <MyCustomComponent 
+    :prop="value" 
+    @custom-event="handleEvent"
+    class="main-container"
+    angular-directive="*ngIf"
+  >
+    <div 
+      id="content" 
+      [ngClass]="{'active': isActive}" 
+      v-model="formData"
+      style="color: red;"
+    >
+      <img src="image.jpg" alt="Example">
+      <button onclick="handleClick()">Click</button>
+    </div>
+  </MyCustomComponent>
+</body>
+</html>
