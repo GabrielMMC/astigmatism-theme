@@ -43,11 +43,11 @@ Add these settings to your `settings.json` for better experience:
 
 | Color              | Main Use            | Hexadecimal |
 |--------------------|---------------------|-------------|
-| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNic+PHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzIwMjgzYScvPjwvc3ZnPg==" width="16" height="16"></div> | Main Background     | `#20283A`   |
-| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNic+PHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzc1OERDNCcvPjwvc3ZnPg==" width="16" height="16"></div> | Functions/Keywords  | `#758DC4`   |
-| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNic+PHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzk3NUE5MicvPjwvc3ZnPg==" width="16" height="16"></div> | Classes/Types       | `#975A92`   |
-| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNic+PHJlY3Qgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgZmlsbD0nIzdDOTc4MicvPjwvc3ZnPg==" width="16" height="16"></div> | Strings/Variables            | `#7C9782`   |
-| <div align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI0MwQkRCMCIvPjwvc3ZnPg==" width="16" height="16"></div> | Constants/Punctuation           | `#C0BDB0`   |
+| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/background.png" width="16" height="16"></div>  | Main Background     | `#20283A`   |
+| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/function.png" width="16" height="16"></div> | Functions/Keywords  | `#758DC4`   |
+| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/class.png" width="16" height="16"></div>  | Classes/Types       | `#975A92`   |
+| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/variable.png" width="16" height="16"></div>  | Strings/Variables            | `#7C9782`   |
+| <div align="center"><img src="https://raw.githubusercontent.com/GabrielMMC/astigmatism-theme/9fff40395b94aa2c64c4acb692799ccd4db33ee0/png-colors/ponctuation.png" width="16" height="16"></div>  | Constants/Punctuation           | `#C0BDB0`   |
 
 ## 🤝 Contribution
 Contributions are welcome! Follow these steps:
