@@ -2,6 +2,7 @@
 	"name": "Astigmatism Theme",
 	"type": "dark",
   "colors": {
+    "editor.background": "#20283a",
     "editor.linkedEditingBackground": "#1A202E",
     "editor.foreground": "#dbd5c0",          
     "editor.lineHighlightBackground": "#1A202E", 
