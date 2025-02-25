@@ -4,7 +4,7 @@
   "icon": "icon.png",
   "displayName": "Astigmatism Theme",
   "description": "A personalized theme for people with astigmatism.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.97.0"
   },
