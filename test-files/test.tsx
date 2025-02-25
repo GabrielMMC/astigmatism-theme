@@ -54,6 +54,41 @@ const UserDashboard: FC<{ initialUsers: User[] }> = ({ initialUsers }) => {
   };
 
   useEffect(() => {
+    function example() {
+      if (true) { // Nível 1
+        [1, 2, 3].forEach((item) => { // Nível 2
+          if(true){
+            if(true){
+              if(true){
+                if(true){
+                  if(true){
+                    if(true){
+                      if(true){
+                        if(true){
+                          if(true){
+                            if(true){
+                              if(true){
+                                if(true){
+            
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          console.log({ // Nível 3
+            key: item
+          });
+        });
+      }
+    }
+
     if (searchTerm) {
       setUsers(filterUsers(initialUsers, searchTerm));
     } else {

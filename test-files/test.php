@@ -19,7 +19,7 @@ class TestController extends SomeClass implements SomeFacade
     {
         $this->service = $service;
     }
-
+    
     // Basic route with dependency injection
     public function multipleContexts(UserRequest $request): User | null
     {
@@ -126,8 +126,16 @@ use App\Http\Controllers\TestController;
 
 // Closure route with middleware
 Route::get('/test', function () {
-    return 'Test route';
-})->middleware('auth:sanctum');
+    $user = User::where('email', 'test@example.com')
+    ->firstOrFail()
+    ->load('profile');
+
+    return [
+        'id' => $item->id,
+        'name' => strtoupper($item->name),  
+        'stats' => $this->calculateStats($item)
+    ];
+});
 
 // Controller method route
 Route::resource('posts', TestController::class)
